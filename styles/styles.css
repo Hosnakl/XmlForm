@@ -1,0 +1,38 @@
+
+
+.center {
+     text-align: center;
+    
+}
+
+.form-container {
+    margin: 5vmin 0 5vmin 55vmin;
+    font-size: 20px;
+}
+
+label {
+    margin-right: 10vmin;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  margin: 1vmin 0 0 0;
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+label {
+  padding: 10x 10px 10px 0;
+  display: inline-block;
+}
+
+button {
+    padding: 5px 5px 5px 5px;
+    background-color: lightgray;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin: 3vmin 0 15vmin 0;
+    float: left;
+}
+
